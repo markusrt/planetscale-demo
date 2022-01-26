@@ -126,3 +126,5 @@ GitHub Actions and many other CI/CD platforms set the **CI** variable to **true*
 ### Initial table
 
 When you create a bew database from scratch, a default table called `pixel_matrix` will be created. If you like to change this behavior, modify [this file](.pscale/cli-helper-scripts/create-database.sh).
+
+## Test change
